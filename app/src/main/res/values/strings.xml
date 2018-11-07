@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MyIndi</string>
+    <string name="app_name">IndiScan</string>
+    <string name="navbottomacc">account</string>
+    <string name="navbottomhome">home</string>
+    <string name="navbottomnotif">notification</string>
+    <string name="navbottomcs">bantuan</string>
+    <string name="navbottomscanner">scanner</string>
 </resources>
